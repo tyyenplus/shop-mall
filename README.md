@@ -1,6 +1,6 @@
 # 基于vue2.0、vue-cli、vuex、vue-router、vue-resource实现的简单商场
 
-> 基于vue2.0、vue-cli、vuex、vue-router、vue-resource实现的简单商场
+> 基于vue2.0、vue-cli、vuex、vue-router、vue-resource实现的简单商场。由于是没有进行数据交互，只是用mock来模拟数据生成动态结构。该项目只是简单的一个购物流程，首页->列表->商品详情->选择规格->加入购物车->提交订单
 
 ## 安装/使用说明
 
