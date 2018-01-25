@@ -21,8 +21,8 @@ npm run build
 npm run build --report
 ```
 
-![](http://chen.asd945.com/images/shop.png)
 #### 手机扫码预览
+![](http://chen.asd945.com/images/shop.png)
 
 #### demo的页面截图：
 ![](http://chen.asd945.com/images/index.png)
