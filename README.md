@@ -1,21 +1,32 @@
-# shop-mall
+# 基于vue2.0、vuex、vue-router、vue-resource实现的简单商场
 
-> shopping app test
+> 基于vue2.0、vuex、vue-router、vue-resource实现的简单商场
 
-## Build Setup
+demo的页面截图：
+![](http://chen.asd945.com/images/index.png)
+![](http://chen.asd945.com/images/list.png)
+![](http://chen.asd945.com/images/cart.png)
+![](http://chen.asd945.com/images/user.png)
+![](http://chen.asd945.com/images/address.png)
+![](http://chen.asd945.com/images/order.png)
+
+在线访问：[http://chen.asd945.com/#/](http://chen.asd945.com/#/)
+
+## 安装/使用说明
 
 ``` bash
-# install dependencies
+# 克隆项目
+git clone git@github.com:tyyenplus/shop-mall.git
+
+# 安装依赖
 npm install
 
-# serve with hot reload at localhost:8080
+# 本地开发环境，运行demo 访问:http://localhost:8080
 npm run dev
 
-# build for production with minification
+# 打包文件
 npm run build
 
 # build for production and view the bundle analyzer report
 npm run build --report
 ```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
